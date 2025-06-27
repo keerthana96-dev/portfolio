@@ -7,8 +7,8 @@
 }
 .navbar h1{
     
-  background: linear-gradient(90deg, #d75f9b, #7928ca, #77b6cb);
-  -webkit-background-clip: text;
+  background: linear-gradient(90deg, #e2a3c2, #a172d0, #a6d9ea);
+  background-clip: text;
   -webkit-text-fill-color: transparent;
   font-weight: bold;
   font-size: 50px;
