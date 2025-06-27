@@ -5,6 +5,16 @@
     margin:20px 170px;
 
 }
+.navbar h1{
+    
+  background: linear-gradient(90deg, #d75f9b, #7928ca, #77b6cb);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: bold;
+  font-size: 50px;
+
+
+}
 .nav-menu{
     display: flex;
     align-items: center;
