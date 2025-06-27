@@ -15,8 +15,8 @@ const Person = () => {
   return (
     <div id='home' className='person'>
         <img src={about_profile} alt=""  />
-        <h1> <span>I am Keerthana,</span> frontend developement trainer based in chennai.</h1>
-        <p>I’m a passionate Front-End Developer expertise in HTML, CSS, JavaScript and mordern library Reactjs, specialize in training aspiring developers and professionals to master front-end technologies.</p>
+        <h1> <span>I am Keerthana,</span> Software developer based in chennai.</h1>
+        <p>Passionate about building clean, responsive web applications using React and the MERN stack. Currently looking for opportunities to grow professionally and contribute to impactful projects.</p>
         <div className="person-action">
             <div className="person-connect"> 
               <AnchorLink className='anchor-link' offset={50} href='#contact'>
